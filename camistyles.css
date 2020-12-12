@@ -1,0 +1,69 @@
+body {
+  margin: 0;
+}
+
+h1 {
+  font-size: 3rem;
+  color: #BB2528;
+}
+
+h2 {
+    margin-top: 5rem;
+    color: #F8C573;
+    font-size: 1.7rem;
+}
+
+h3 {
+    color: #165B33;
+    font-size: 1.5rem;
+}
+
+img {
+  padding-top: 2rem;
+  width: 30%;
+  transform: rotate(-10deg);
+}
+
+.fundal {
+display:inline-block;
+position: relative;
+padding: 0;
+}
+
+.frontText {
+  text-align: center;
+  margin-left: 15%;
+  display:inline-block;
+  position: relative;
+  bottom: 58rem;
+  font-family: 'Mountains of Christmas', cursive;
+}
+
+.player {
+  margin-top: 5rem;
+}
+
+.btn {
+  outline: none;
+  border: 2px solid #165B33;
+  font-family: 'Mountains of Christmas', cursive;
+  font-size: 1rem;
+  font-weight: bolder;
+  line-height: 1;
+  color: #165B33;
+  border-radius: 10px;
+  display: inline-block;
+  width: 85px;
+  height: 30px;
+  text-align: center;
+  margin-right: 10px;
+  background-color: #F8C573;
+}
+
+.pressed {
+  box-shadow: 0 0 5px white;
+}
+
+.acopera {
+  background-color: #F8E2BE;
+}
